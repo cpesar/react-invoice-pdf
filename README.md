@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# <p align="center"> React PDF Generator </p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+<br />
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+A simple React application that allows a business to create a PDF file to bill their customers.
+<br />
 
-### `npm start`
+## :open_book: Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## :wrench: Installation
 
-### `npm test`
+<a name="installation">Clone this repo to your local machine. Run `npm i` to install all dependencies. </a>
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :desktop_computer: Usage
 
-### `npm run build`
+<a name="usage">Could be used as part of a larger project or ecommerce site to allow a business to create a PDF so that they can bill their customers.</a>
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :scroll: License
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a name="license">[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)</a>
+<br />This application is licensed under Mozilla. All rights reserved.<br />[Please click here to view the license](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :weight_lifting_man: Contribution
 
-### `npm run eject`
+'[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)'
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br /><a name="contribution">No</a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :hourglass: Tests
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<a name="tests">N/A</a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## :grey_question: Questions
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please feel free to reach out to me with any questions<br />
+:wave: Github: <a name = "questions">[cpesar](https://github.com/cpesar)</a>
+<br />
+:postbox: Email: <a name = "questions">cpesar1@gmail.com</a>
